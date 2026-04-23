@@ -23,3 +23,7 @@
 2. **編譯指令**：
    ```bash
    g++ src/*.cpp -Iinclude -o build/OrderingSystem.exe
+
+##執行結果
+<img width="447" height="518" alt="圖片" src="https://github.com/user-attachments/assets/317ed086-102d-4a76-86b6-c03a157955d1" />
+
