@@ -5,9 +5,6 @@ using namespace std;
 
 int main() 
 {
-    
-    system("chcp 65001");
-
     OrderSystem mySystem;
     mySystem.initialize();
     mySystem.start();
